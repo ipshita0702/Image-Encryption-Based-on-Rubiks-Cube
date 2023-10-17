@@ -3,7 +3,7 @@ This is a novel image encryption algorithm based on Rubik's cube principle. The 
 
 ## Setup
 1. Clone this repo
-git clone https://github.com/sahibjotsingh/Image-Encryption-Based-on-Rubiks-Cube
+git clone https://github.com/ipshita0702/Image-Encryption-Based-on-Rubiks-Cube
 
 2. Install numpy and pillow.
 
